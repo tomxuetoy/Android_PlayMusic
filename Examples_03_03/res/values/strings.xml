@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">使用Service播放音乐例子，谢谢使用！</string>
+    <string name="app_name">Examples_03_03</string>
+    <string name="start">开始播放</string>
+    <string name="stop">停止播放</string>
+</resources>
