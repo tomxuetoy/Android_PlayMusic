@@ -13,6 +13,7 @@ public class MusicService extends Service {
 		return null;
 	}
 
+	@SuppressWarnings("deprecation")
 	public void onStart(Intent intent, int startId) {
 		super.onStart(intent, startId);
 		// 这里可以理解为装载音乐文件
