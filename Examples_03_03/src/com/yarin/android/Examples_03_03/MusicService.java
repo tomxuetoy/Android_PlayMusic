@@ -9,6 +9,7 @@ public class MusicService extends Service {
 	// MediaPlayer对象
 	private MediaPlayer player;
 
+    // startService() used, bindService() not used
 	public IBinder onBind(Intent arg0) {
 		return null;
 	}
